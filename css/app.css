@@ -1,0 +1,22 @@
+[class^='col'] {
+	padding: 10px;
+	background-color: #006cfa;
+	color: white;    
+	border: 1px solid white;
+    text-align: center;
+    font-size: 12px;
+}
+
+[class^='col'] [class^='col'] {
+	padding: 10px;
+    background-color: #00e165;
+    border: 1px solid #006cfa;
+}
+
+.m-section {
+    margin-bottom: 15px;
+}
+
+.m-section2 div{
+    height: 35px;
+}
